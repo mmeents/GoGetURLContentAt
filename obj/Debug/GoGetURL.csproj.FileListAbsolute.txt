@@ -1,0 +1,6 @@
+C:\Dev\GitHub\GoGetURLContentAt\bin\Debug\GoGetURL.dll
+C:\Dev\GitHub\GoGetURLContentAt\bin\Debug\GoGetURL.pdb
+C:\Dev\GitHub\GoGetURLContentAt\bin\Debug\GoGetURL.tlb
+C:\Dev\GitHub\GoGetURLContentAt\obj\Debug\GoGetURL.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\GoGetURLContentAt\obj\Debug\GoGetURL.dll
+C:\Dev\GitHub\GoGetURLContentAt\obj\Debug\GoGetURL.pdb
