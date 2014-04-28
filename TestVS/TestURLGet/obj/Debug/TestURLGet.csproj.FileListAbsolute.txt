@@ -1,0 +1,11 @@
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\bin\Debug\TestURLGet.exe.config
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\bin\Debug\TestURLGet.exe
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\bin\Debug\TestURLGet.pdb
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\bin\Debug\GoGetURL.dll
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\bin\Debug\GoGetURL.pdb
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\obj\Debug\TestURLGet.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\obj\Debug\TestURLGet.Form1.resources
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\obj\Debug\TestURLGet.Properties.Resources.resources
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\obj\Debug\TestURLGet.csproj.GenerateResource.Cache
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\obj\Debug\TestURLGet.exe
+C:\Dev\GitHub\GoGetURLContentAt\TestVS\TestURLGet\obj\Debug\TestURLGet.pdb
